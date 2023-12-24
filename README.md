@@ -20,8 +20,3 @@ TODO: Add some examples of usage here.
 
 For details on all commands, type `help` followed by the command name.
 
-## Authors
-
-See the AUTHORS file.
-and for further referance
-https://github.com/moby/moby/blob/master/AUTHORS
